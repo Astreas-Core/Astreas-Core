@@ -1,41 +1,14 @@
-# Hi there, I'm Dhanvesh 👋
+# Hi, I'm Dhanvesh Diddi👋
 
-I'm a B.Tech student specializing in Artificial Intelligence and Machine Learning, passionate about building software that solves real-world problems. I enjoy exploring new technologies, developing mobile and web applications, and continuously improving my programming and problem-solving skills.
+🎓 B.Tech AIML student at Mohan Babu University
 
-My interests span across Android development, web technologies, AI, machine learning, and software engineering. I love turning ideas into functional products, whether it's a music platform, a mobile application, or an experimental side project.
+💻 Passionate about Android Development, AI/ML, Web Development, and Problem Solving
 
-## 🚀 What I'm Working On
+🚀 Building projects with Kotlin, Jetpack Compose, Flutter, React, and Firebase
 
-* Learning advanced Data Structures & Algorithms
-* Building Android apps with Kotlin and Jetpack Compose
-* Exploring AI and Machine Learning concepts
-* Developing full-stack applications with React and Firebase
-* Creating and improving personal software projects
+📚 Currently improving my Data Structures & Algorithms skills and exploring modern software development
 
-## 💻 Tech Stack
-
-**Languages:** Java, Kotlin, JavaScript, Dart, C, C++
-
-**Frameworks & Tools:** Flutter, Jetpack Compose, React, Firebase, Git, GitHub
-
-## 🎯 Interests
-
-* Artificial Intelligence & Machine Learning
-* Mobile App Development
-* Web Development
-* Software Design
-* UI/UX
-* Cloud Technologies
-
-## 🎵 Beyond Coding
-
-When I'm not coding, you'll probably find me exploring music production, experimenting with sound design, gaming, or customizing devices and software to get the best experience possible.
-
-## 🌱 Philosophy
-
-I believe the best way to learn is by building. Every project teaches something new, and every challenge is an opportunity to grow as a developer.
-
-Thanks for stopping by! Feel free to explore my repositories and connect with me.
+🎵 Interests: Coding, Tech Exploration, Gaming, and Photography
 
 
 ## 🌐 Socials:
@@ -50,5 +23,3 @@ Thanks for stopping by! Feel free to explore my repositories and connect with me
 
 ---
 [![](https://komarev.com/ghpvc/?username=Astreas-Core&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
