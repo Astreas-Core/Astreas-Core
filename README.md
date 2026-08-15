@@ -35,9 +35,9 @@ I'm particularly interested in **Android development, AI/ML, web development, an
 ```text
 ┌────────────────────────────────────────────────────────────┐
 │                                                            │
-│   📱 Android Development        🤖 AI / ML                 │
+│   📱 Android Development        🤖 AI / ML                │
 │   🌐 Web Development            🧠 Data Structures        │
-│   🔧 Software Projects          🧪 Tech Exploration        │
+│   🔧 Software Projects          🧪 Tech Exploration       │
 │                                                            │
 └────────────────────────────────────────────────────────────┘
 ```
@@ -207,11 +207,11 @@ I'm particularly interested in **Android development, AI/ML, web development, an
 ```text
 ┌─────────────────────────────────────────────────────────────┐
 │                                                             │
-│  ✓ Build meaningful real-world projects                    │
+│  ✓ Build meaningful real-world projects                     │
 │  ✓ Explore modern software technologies                     │
 │  → Strengthen Data Structures & Algorithms                  │
 │  → Become stronger at Android development                   │
-│  → Build practical AI/ML projects                            │
+│  → Build practical AI/ML projects                           │
 │  → Contribute to open source                                │
 │  → Keep experimenting and learning                          │
 │                                                             │
